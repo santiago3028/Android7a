@@ -10,6 +10,7 @@
     <string name="lblOpOpaque">Opaco</string>
     <string name="lblOpRed">Rojo</string>
     <string name="lblOpReset">Restablecer</string>
+    <string name="lbl_close">Cerrar</string>
     <string name="lblOpSemitransparent">Semitransparente</string>
     <string name="lblOpTransparent">Transparente</string>
     <string name="lblOpWhite">Blanco</string>
@@ -18,4 +19,27 @@
     <string name="lbl_blue">Azul</string>
     <string name="lbl_green">Verde</string>
     <string name="lbl_red">Rojo</string>
+    <string name="lbl_full_name">Nombre :</string>
+    <string name="lbl_my_name">Santiago Perez</string>
+    <string name="lbl_github">GitHub :</string>
+    <string name="lbl_my_github">/santiago3028</string>
+    <string name="lbl_help">AYUDA</string>
+    <string name="lbl_my_des">
+
+        La aplicación permite realizar ciertas
+        modificaciones de color a una imagen predeterminada,
+        hay una variedad de colores que podemos utilizar y darle
+        nuestro gusto único a la imagen, su función es muy fácil de usar,
+        simplemente se desliza la barra que esta en frente del color, se hace un
+        movimiento lento hasta llegar al tono deseado, se puede combinar los colores que
+        están en la paleta sin ningún problema y facilidad.
+
+        ¡Haz la prueba!
+
+
+    </string>
+
+
+
+
 </resources>

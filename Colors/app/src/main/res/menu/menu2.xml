@@ -2,6 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/iteReset"
         android:title="@string/lblOpReset" />
+    <item android:id="@id/iteRed"
+        android:title="Red" />
     <item android:id="@+id/iteHelp"
-        android:title="@string/lbl_help" />
+        android:title="@string/lblHelp" />
+
 </menu>

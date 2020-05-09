@@ -3,20 +3,23 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/icHelp"
+        android:icon="@drawable/ic_help"
+        android:title="@string/lblHelp"
+        app:showAsAction="ifRoom" />
+
+    <item
         android:id="@+id/icTransparent"
         android:icon="@drawable/ic_transparent"
         android:title="@string/lblOpTransparent"
         app:showAsAction="ifRoom" />
-    <item
-        android:id="@+id/icHelp"
-        android:icon="@drawable/ic_help"
-        android:title="@string/lbl_help"
-        app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/iteTransparent"
         android:title="@string/app_name">
         <menu>
+            <item
+                android:id="@+id/iteTransparent"
+                android:title="@string/lblOpTransparent" />
             <item
                 android:id="@+id/iteSemitransparent"
                 android:title="@string/lblOpSemitransparent" />
@@ -56,7 +59,7 @@
         android:title="@string/lblOpReset" />
     <item
     android:id="@+id/iteAboutof"
-    android:title="@string/lblOpAboutof" />
+    android:title="@string/lblOpAbout_of" />
     <item
         android:id="@+id/iteClose"
         android:title="@string/lbl_close" />

@@ -17,21 +17,15 @@
     <string name="lblOpMagenta">Magenta</string>
     <string name="lblOpYellow">Yellow</string>
     <string name="lblOpReset">Reset</string>
-    <string name="lblOpAboutof">About of</string>
-    <string name="lbl_close">Close</string>
-    <string name="lbl_full_name">Full name :</string>
-    <string name="lbl_my_name">Santiago Perez</string>
-    <string name="lbl_github">GitHub :</string>
-    <string name="lbl_my_github">/santiago3028</string>
-    <string name="lbl_help">HELP</string>
-    <string name="lbl_my_des">
-
-        The application allows you to make certain color modifications
-        to a predetermined image, there are a variety of colors that we can use and give our
-        image its unique taste, its function is very easy to use, simply slide the bar that is in front of the color,
-        a slow movement is made until the desired shade is reached, the colors that are in the palette can be combined
-        without any problem and ease. Do the test!
-
-    </string>
-
+    <string name="lblOpAbout_of">About of</string>
+    <string name="lblHelp">Help</string>
+    <string name="lbl_first_name">First name: </string>
+    <string name="lbl_last_name">Last name: </string>
+    <string name="lbl_close">Close app</string>
+    <string name="lbl_Information">Help information</string>
+    <string name="lbl_name">Karen</string>
+    <string name="lbl_last_n">Tumal</string>
+    <string name="lbl_git_hub">GitHub: </string>
+    <string name="lbl_git_user">/Karen9901</string>
+    <string name="lbl_text">The concept of color palette is one that is used to designate the set of colors and specific shades or chosen to decorate, paint, color an object or surface.</string>
 </resources>

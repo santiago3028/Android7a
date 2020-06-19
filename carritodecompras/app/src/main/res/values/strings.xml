@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">carrito de compras</string>
+    <string name="lbl_product">product name:</string>
+    <string name="lbl_Quantity">Quantity</string>
+    <string name="lbl_add">Add to cart</string>
+    <string name="lbl_buy">buy</string>
+
+</resources>
